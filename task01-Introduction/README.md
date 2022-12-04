@@ -61,6 +61,8 @@ Topics that will be covered in the event are:
 - Blue Teaming
 - IoT Hacking
 
+===============================================================================
+
 # Questions
 
 > Read the above and checkout the sponsors

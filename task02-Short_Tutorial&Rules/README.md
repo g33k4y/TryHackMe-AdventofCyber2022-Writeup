@@ -22,6 +22,7 @@ Breaking any of the following rules will result in elimination from the event:
 - Users should only enter the event once, using one account.
 - Answers to questions are not to be shared; unless shown on videos/streams. 
 
+===============================================================================
 
 # Questions
 
