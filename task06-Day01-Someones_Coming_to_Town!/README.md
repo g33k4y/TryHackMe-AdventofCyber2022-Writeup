@@ -128,15 +128,15 @@ Press **Start** button to enter:
 Objective of puzzle 1 is to fit the answer (jigsaw puzzle pieces) to the correct spot (1 to 8) using the clues given.  
 The answer is as follows:
 
-![](./res/res/puzzle1ans.png)
+![](./res/puzzle1ans.png)
 
 Click **next** to go to the next puzzle.
 
-![](./res/res/puzzle2.png)
+![](./res/puzzle2.png)
 
 Similar as puzzle 1, match each answer (jigsaw puzzle pieces) to the correct spot (1 to 6) using the clues given.
 
-![](./res/res/puzzle2ans.png)
+![](./res/puzzle2ans.png)
 
 Click **next** to go to the next puzzle.
 
