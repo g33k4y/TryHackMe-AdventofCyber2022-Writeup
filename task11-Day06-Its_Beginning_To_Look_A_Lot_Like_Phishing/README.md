@@ -107,9 +107,10 @@ After completing the mentioned initial checks, you can continue with body and at
 
 Once you get the sum of the file, you can go for further analysis using the VirusTotal.
 
+## Tool: [https://www.virustotal.com/gui/home/upload][3]
+
 ![](./res/pic12.png)
 
-## Tool: [https://www.virustotal.com/gui/home/upload][3]
 Now, visit the tool website and use the **SEARCH** option to conduct hash-based file reputation analysis. After receiving the results, you will have multiple sections to discover more about the hash and associated file. Sections are shown below.
 
 ![](./res/pic13.png)
