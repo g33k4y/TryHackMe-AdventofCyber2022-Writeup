@@ -2,7 +2,7 @@
 
 ![](./res/pic1.png)
 
-Check out MWRSecurity's video walkthrough for Day 4 [here](https://www.youtube.com/watch?v=4Oydt3fNlgQ)!
+Check out MWRSecurity's video walkthrough for Day 8 [here](https://www.youtube.com/watch?v=4Oydt3fNlgQ)!
 
 After it was discovered that Best Festival Company was now on the blockchain and attempting to mint their cryptocurrency, they were quickly compromised. Best Festival Company lost all its currency in the exchange because of the attack. It is up to you as a red team operator to discover how the attacker exploited the contract and attempt to recreate the attack against the same target contract.
 

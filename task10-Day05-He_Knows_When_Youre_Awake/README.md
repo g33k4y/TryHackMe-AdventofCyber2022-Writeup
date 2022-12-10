@@ -2,7 +2,7 @@
 
 ![](./res/pic1.png)
 
-Check out Phillip Wylie's video walkthrough for Day 4 [here](https://www.youtube.com/watch?v=oqXG82ESTWw)!
+Check out Phillip Wylie's video walkthrough for Day 5 [here](https://www.youtube.com/watch?v=oqXG82ESTWw)!
 
 Elf McSkidy asked Elf Recon McRed to search for any backdoor that the Bandit Yeti APT might have installed. If any such backdoor is found, we would learn that the bad guys might be using it to access systems on Santa’s network.
 

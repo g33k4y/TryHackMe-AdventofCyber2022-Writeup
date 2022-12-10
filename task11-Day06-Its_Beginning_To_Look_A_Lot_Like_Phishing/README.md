@@ -2,7 +2,7 @@
 
 ![](./res/pic1.png)
 
-Check out CyberSecMeg's video walkthrough for Day 4 [here](https://www.youtube.com/watch?v=dcGvnZ4JDHI)!
+Check out CyberSecMeg's video walkthrough for Day 6 [here](https://www.youtube.com/watch?v=dcGvnZ4JDHI)!
 
 Elf McBlue found an email activity while analysing the log files. It looks like everything started with an email...
 

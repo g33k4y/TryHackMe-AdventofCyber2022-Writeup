@@ -2,7 +2,7 @@
 
 ![](./res/pic1.png)
 
-Check out SecurityNinja's video walkthrough for Day 4 [here](https://www.youtube.com/watch?v=W4dZW5s2CeA)!
+Check out SecurityNinja's video walkthrough for Day 7 [here](https://www.youtube.com/watch?v=W4dZW5s2CeA)!
 
 In the previous task, we learned that McSkidy was indeed a victim of a spearphishing campaign that also contained a suspicious-looking document **Division_of_labour-Load_share_plan.doc**. McSkidy accidentally opened the document, and it's still unknown what this document did in the background. McSkidy has called on the in-house expert **Forensic McBlue** to examine the malicious document and find the domains it redirects to. Malicious documents may contain a suspicious command to get executed when opened, an embedded malware as a dropper **(malware installer component)**, or may have some C2 domains to connect to.
 
