@@ -44,11 +44,11 @@ Contract B calls the withdraw function of Contract A.
 
 Contract A authorizes the deposit if the pre-determined conditions for withdrawal are met.
 
-![](./res/pic3.gif)
+![](./res/pic3.png)
 
 Contract B can execute other functions after the Ether is sent from Contract A but before the function resolves.
 
-![](./res/pic4.gif)
+![](./res/pic4.png)
 
 # How do Vulnerabilities in Smart Contracts Occur?
 Most smart contract vulnerabilities arise due to logic issues or poor exception handling. Most vulnerabilities arise in functions when conditions are insecurely implemented through the previously mentioned issues.
